@@ -2,3 +2,7 @@
 *.suo
 *.filters
 *.user
+LeetCode.opensdf
+Debug
+Release
+ipch
