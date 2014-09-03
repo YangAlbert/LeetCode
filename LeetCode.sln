@@ -1,4 +1,6 @@
 ﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\BinaryTreePreorderTraversal.vcxproj", "{4078227D-3635-43D8-9FC4-D17A35DC0EDB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReorderList", "ReorderList\ReorderList.vcxproj", "{988C4B50-73F4-4D18-AF43-0F4179B6573F}"
@@ -23,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy and Sell S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rotate List", "Rotate List\Rotate List.vcxproj", "{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{13EAD347-B444-44CA-ACB7-915260A54E4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,10 +81,10 @@ Global
 		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Debug|Win32.Build.0 = Debug|Win32
 		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Release|Win32.ActiveCfg = Release|Win32
 		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Release|Win32.Build.0 = Release|Win32
-		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Debug|Win32.ActiveCfg = Debug|Win32
-		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Debug|Win32.Build.0 = Debug|Win32
-		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Release|Win32.ActiveCfg = Release|Win32
-		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Release|Win32.Build.0 = Release|Win32
+		{13EAD347-B444-44CA-ACB7-915260A54E4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13EAD347-B444-44CA-ACB7-915260A54E4A}.Debug|Win32.Build.0 = Debug|Win32
+		{13EAD347-B444-44CA-ACB7-915260A54E4A}.Release|Win32.ActiveCfg = Release|Win32
+		{13EAD347-B444-44CA-ACB7-915260A54E4A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,8 @@
 #pragma once
+
+#include <cmath>
+#include <cfloat>
+
 class CPow
 {
 public:
