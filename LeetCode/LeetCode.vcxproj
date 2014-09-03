@@ -79,7 +79,9 @@
     <ClInclude Include="Pow.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Binary Tree Maximum Path Sum.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Path Sum.cpp" />
     <ClCompile Include="Pow.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

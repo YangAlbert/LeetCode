@@ -2,3 +2,7 @@ LeetCode
 ========
 
 practice codes on leetcode
+
+# clean the ignore file list in repo:
+# git ls-files --ignored --exclued-standard | sed 's/^.*$/"&"/g' | xargs git rm --cached 
+
