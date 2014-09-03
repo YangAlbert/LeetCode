@@ -1,6 +1,4 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\BinaryTreePreorderTraversal.vcxproj", "{4078227D-3635-43D8-9FC4-D17A35DC0EDB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReorderList", "ReorderList\ReorderList.vcxproj", "{988C4B50-73F4-4D18-AF43-0F4179B6573F}"
@@ -24,6 +22,22 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock II\Best Time to Buy and Sell Stock II.vcxproj", "{FB4B682C-E46C-45ED-AC66-4BA91D62274D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rotate List", "Rotate List\Rotate List.vcxproj", "{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode", "LeetCode\LeetCode.vcxproj", "{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LRU", "LRU\LRU.vcxproj", "{839A646D-EDB0-4271-8E26-C60907EC134D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreePostorderTraversal", "BinaryTreePostorderTraversal\BinaryTreePostorderTraversal.vcxproj", "{8F10DF36-6201-4A1E-A624-EA2220FF747F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Consecutive Sequence", "Longest Consecutive Sequence\Longest Consecutive Sequence.vcxproj", "{46430E87-2D21-4A7D-B6ED-27050D14F9AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Valid Palindrome", "Valid Palindrome\Valid Palindrome.vcxproj", "{270D0EDE-B4E3-4D33-9060-133023B94554}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Permutations II", "Permutations II\Permutations II.vcxproj", "{9BF9FC06-3E16-422D-8D9A-9BE03AA2940E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimum Depth of Binary Tree", "Minimum Depth of Binary Tree\Minimum Depth of Binary Tree.vcxproj", "{5329C1F7-3ECE-498F-9079-870243F96C3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Climbing Stairs", "Climbing Stairs\Climbing Stairs.vcxproj", "{FF99E645-B0E8-48CD-BCE8-40108ADABDF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +93,38 @@ Global
 		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Debug|Win32.Build.0 = Debug|Win32
 		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Release|Win32.ActiveCfg = Release|Win32
 		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Release|Win32.Build.0 = Release|Win32
+		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Debug|Win32.Build.0 = Debug|Win32
+		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Release|Win32.ActiveCfg = Release|Win32
+		{D677DC7C-BA9C-401D-AA8C-16660F5F5DED}.Release|Win32.Build.0 = Release|Win32
+		{839A646D-EDB0-4271-8E26-C60907EC134D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{839A646D-EDB0-4271-8E26-C60907EC134D}.Debug|Win32.Build.0 = Debug|Win32
+		{839A646D-EDB0-4271-8E26-C60907EC134D}.Release|Win32.ActiveCfg = Release|Win32
+		{839A646D-EDB0-4271-8E26-C60907EC134D}.Release|Win32.Build.0 = Release|Win32
+		{8F10DF36-6201-4A1E-A624-EA2220FF747F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F10DF36-6201-4A1E-A624-EA2220FF747F}.Debug|Win32.Build.0 = Debug|Win32
+		{8F10DF36-6201-4A1E-A624-EA2220FF747F}.Release|Win32.ActiveCfg = Release|Win32
+		{8F10DF36-6201-4A1E-A624-EA2220FF747F}.Release|Win32.Build.0 = Release|Win32
+		{46430E87-2D21-4A7D-B6ED-27050D14F9AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46430E87-2D21-4A7D-B6ED-27050D14F9AB}.Debug|Win32.Build.0 = Debug|Win32
+		{46430E87-2D21-4A7D-B6ED-27050D14F9AB}.Release|Win32.ActiveCfg = Release|Win32
+		{46430E87-2D21-4A7D-B6ED-27050D14F9AB}.Release|Win32.Build.0 = Release|Win32
+		{270D0EDE-B4E3-4D33-9060-133023B94554}.Debug|Win32.ActiveCfg = Debug|Win32
+		{270D0EDE-B4E3-4D33-9060-133023B94554}.Debug|Win32.Build.0 = Debug|Win32
+		{270D0EDE-B4E3-4D33-9060-133023B94554}.Release|Win32.ActiveCfg = Release|Win32
+		{270D0EDE-B4E3-4D33-9060-133023B94554}.Release|Win32.Build.0 = Release|Win32
+		{9BF9FC06-3E16-422D-8D9A-9BE03AA2940E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9BF9FC06-3E16-422D-8D9A-9BE03AA2940E}.Debug|Win32.Build.0 = Debug|Win32
+		{9BF9FC06-3E16-422D-8D9A-9BE03AA2940E}.Release|Win32.ActiveCfg = Release|Win32
+		{9BF9FC06-3E16-422D-8D9A-9BE03AA2940E}.Release|Win32.Build.0 = Release|Win32
+		{5329C1F7-3ECE-498F-9079-870243F96C3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5329C1F7-3ECE-498F-9079-870243F96C3C}.Debug|Win32.Build.0 = Debug|Win32
+		{5329C1F7-3ECE-498F-9079-870243F96C3C}.Release|Win32.ActiveCfg = Release|Win32
+		{5329C1F7-3ECE-498F-9079-870243F96C3C}.Release|Win32.Build.0 = Release|Win32
+		{FF99E645-B0E8-48CD-BCE8-40108ADABDF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF99E645-B0E8-48CD-BCE8-40108ADABDF2}.Debug|Win32.Build.0 = Debug|Win32
+		{FF99E645-B0E8-48CD-BCE8-40108ADABDF2}.Release|Win32.ActiveCfg = Release|Win32
+		{FF99E645-B0E8-48CD-BCE8-40108ADABDF2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
