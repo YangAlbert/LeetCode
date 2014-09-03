@@ -9,5 +9,5 @@ void main() {
 	int n		= 0;
 
 	cin >> x >> n;
-	cout << pow.pow(x, n) << endl;
+	cout << pow.Pow(x, n) << endl;
 }
