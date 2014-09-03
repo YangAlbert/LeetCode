@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreePreorderTraversal", "BinaryTreePreorderTraversal\BinaryTreePreorderTraversal.vcxproj", "{4078227D-3635-43D8-9FC4-D17A35DC0EDB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReorderList", "ReorderList\ReorderList.vcxproj", "{988C4B50-73F4-4D18-AF43-0F4179B6573F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.vcxproj", "{5C809511-665F-406B-8045-C59273C0EFFA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum Root to Leaf Numbers", "Sum Root to Leaf Numbers\Sum Root to Leaf Numbers.vcxproj", "{3816F25A-EB9A-4EFA-BAA4-2CB2FB8C1D86}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Consecutive Sequence", "Longest Consecutive Sequence\Longest Consecutive Sequence.vcxproj", "{59BE2AD5-33DF-4B0C-9DB0-6393E58F5C87}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Permutations II", "Permutations II\Permutations II.vcxproj", "{38522827-C81D-44C6-BC0C-F97AFC421399}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decode Ways", "Decode Ways\Decode Ways.vcxproj", "{6E6F90AA-228A-4CCF-B86D-CC3305A9D484}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unique Binary Search Trees", "Unique Binary Search Trees\Unique Binary Search Trees.vcxproj", "{DC069385-997A-4F68-9D89-09E977AD81D0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maximum Subarray", "Maximum Subarray\Maximum Subarray.vcxproj", "{EA11AEE2-5AD6-43D6-A41C-5908B8A7C251}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock.vcxproj", "{366A3087-DBAF-4A14-A94F-0006952F9ED1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock II\Best Time to Buy and Sell Stock II.vcxproj", "{FB4B682C-E46C-45ED-AC66-4BA91D62274D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rotate List", "Rotate List\Rotate List.vcxproj", "{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4078227D-3635-43D8-9FC4-D17A35DC0EDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4078227D-3635-43D8-9FC4-D17A35DC0EDB}.Debug|Win32.Build.0 = Debug|Win32
+		{4078227D-3635-43D8-9FC4-D17A35DC0EDB}.Release|Win32.ActiveCfg = Release|Win32
+		{4078227D-3635-43D8-9FC4-D17A35DC0EDB}.Release|Win32.Build.0 = Release|Win32
+		{988C4B50-73F4-4D18-AF43-0F4179B6573F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{988C4B50-73F4-4D18-AF43-0F4179B6573F}.Debug|Win32.Build.0 = Debug|Win32
+		{988C4B50-73F4-4D18-AF43-0F4179B6573F}.Release|Win32.ActiveCfg = Release|Win32
+		{988C4B50-73F4-4D18-AF43-0F4179B6573F}.Release|Win32.Build.0 = Release|Win32
+		{5C809511-665F-406B-8045-C59273C0EFFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C809511-665F-406B-8045-C59273C0EFFA}.Debug|Win32.Build.0 = Debug|Win32
+		{5C809511-665F-406B-8045-C59273C0EFFA}.Release|Win32.ActiveCfg = Release|Win32
+		{5C809511-665F-406B-8045-C59273C0EFFA}.Release|Win32.Build.0 = Release|Win32
+		{3816F25A-EB9A-4EFA-BAA4-2CB2FB8C1D86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3816F25A-EB9A-4EFA-BAA4-2CB2FB8C1D86}.Debug|Win32.Build.0 = Debug|Win32
+		{3816F25A-EB9A-4EFA-BAA4-2CB2FB8C1D86}.Release|Win32.ActiveCfg = Release|Win32
+		{3816F25A-EB9A-4EFA-BAA4-2CB2FB8C1D86}.Release|Win32.Build.0 = Release|Win32
+		{59BE2AD5-33DF-4B0C-9DB0-6393E58F5C87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59BE2AD5-33DF-4B0C-9DB0-6393E58F5C87}.Debug|Win32.Build.0 = Debug|Win32
+		{59BE2AD5-33DF-4B0C-9DB0-6393E58F5C87}.Release|Win32.ActiveCfg = Release|Win32
+		{59BE2AD5-33DF-4B0C-9DB0-6393E58F5C87}.Release|Win32.Build.0 = Release|Win32
+		{38522827-C81D-44C6-BC0C-F97AFC421399}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38522827-C81D-44C6-BC0C-F97AFC421399}.Debug|Win32.Build.0 = Debug|Win32
+		{38522827-C81D-44C6-BC0C-F97AFC421399}.Release|Win32.ActiveCfg = Release|Win32
+		{38522827-C81D-44C6-BC0C-F97AFC421399}.Release|Win32.Build.0 = Release|Win32
+		{6E6F90AA-228A-4CCF-B86D-CC3305A9D484}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E6F90AA-228A-4CCF-B86D-CC3305A9D484}.Debug|Win32.Build.0 = Debug|Win32
+		{6E6F90AA-228A-4CCF-B86D-CC3305A9D484}.Release|Win32.ActiveCfg = Release|Win32
+		{6E6F90AA-228A-4CCF-B86D-CC3305A9D484}.Release|Win32.Build.0 = Release|Win32
+		{DC069385-997A-4F68-9D89-09E977AD81D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC069385-997A-4F68-9D89-09E977AD81D0}.Debug|Win32.Build.0 = Debug|Win32
+		{DC069385-997A-4F68-9D89-09E977AD81D0}.Release|Win32.ActiveCfg = Release|Win32
+		{DC069385-997A-4F68-9D89-09E977AD81D0}.Release|Win32.Build.0 = Release|Win32
+		{EA11AEE2-5AD6-43D6-A41C-5908B8A7C251}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA11AEE2-5AD6-43D6-A41C-5908B8A7C251}.Debug|Win32.Build.0 = Debug|Win32
+		{EA11AEE2-5AD6-43D6-A41C-5908B8A7C251}.Release|Win32.ActiveCfg = Release|Win32
+		{EA11AEE2-5AD6-43D6-A41C-5908B8A7C251}.Release|Win32.Build.0 = Release|Win32
+		{366A3087-DBAF-4A14-A94F-0006952F9ED1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{366A3087-DBAF-4A14-A94F-0006952F9ED1}.Debug|Win32.Build.0 = Debug|Win32
+		{366A3087-DBAF-4A14-A94F-0006952F9ED1}.Release|Win32.ActiveCfg = Release|Win32
+		{366A3087-DBAF-4A14-A94F-0006952F9ED1}.Release|Win32.Build.0 = Release|Win32
+		{FB4B682C-E46C-45ED-AC66-4BA91D62274D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB4B682C-E46C-45ED-AC66-4BA91D62274D}.Debug|Win32.Build.0 = Debug|Win32
+		{FB4B682C-E46C-45ED-AC66-4BA91D62274D}.Release|Win32.ActiveCfg = Release|Win32
+		{FB4B682C-E46C-45ED-AC66-4BA91D62274D}.Release|Win32.Build.0 = Release|Win32
+		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Debug|Win32.Build.0 = Debug|Win32
+		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Release|Win32.ActiveCfg = Release|Win32
+		{F746B9FC-B3ED-48FA-AEA3-7B819C76A9D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
